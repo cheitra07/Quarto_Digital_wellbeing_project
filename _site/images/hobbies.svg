@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<rect width="900" height="500" rx="30" fill="#F3ECF8"/>
+<circle cx="150" cy="250" r="105" fill="#4B236B" opacity=".18"/>
+<text x="150" y="285" text-anchor="middle" font-size="100">🎵</text>
+<text x="320" y="220" font-family="Arial" font-size="42" font-weight="700" fill="#4B236B">BUILD LIFE SKILLS</text>
+<text x="320" y="275" font-family="Arial" font-size="25" fill="#222">Music • dance • art • sports</text>
+</svg>

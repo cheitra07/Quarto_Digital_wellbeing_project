@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "survey-results.html",
+    "href": "survey-results.html",
+    "title": "Survey Results",
+    "section": "",
+    "text": "Code\nsource(\"R/analysis.R\")"
+  },
+  {
+    "objectID": "survey-results.html#dataset",
+    "href": "survey-results.html#dataset",
+    "title": "Survey Results",
+    "section": "Dataset",
+    "text": "Dataset\nThe project uses the collected 25-question printed questionnaire with 38 student responses.\nThe questionnaire covers mobile use, social media, earphones, sleep, physical activity, study/concentration, family interaction, values and life skills."
+  },
+  {
+    "objectID": "survey-results.html#strongest-findings",
+    "href": "survey-results.html#strongest-findings",
+    "title": "Survey Results",
+    "section": "Strongest findings",
+    "text": "Strongest findings\n\n\nQ1 · Mobile use\n\n68.4%\n\n26/38 reported 2+ hours of mobile use.\n\n\nQ3 · Social media\n\n76.3%\n\n29/38 reported daily social-media use.\n\n\nQ7 · Earphones\n\n71.1%\n\n27/38 used earphones occasionally/daily.\n\n\nQ9 · Before sleep\n\n47.4%\n\n18/38 used a phone often/every night before sleep.\n\n\nQ10 · Sleep\n\n23.7%\n\n9/38 reported less than 6 hours of sleep.\n\n\nQ11 · Activity\n\n44.7%\n\n17/38 reported less than 30 minutes of outdoor activity.\n\n\nQ13 · Excessive use\n\n86.8%\n\n33/38 said excessive mobile use affects them sometimes/often/very often.\n\n\nQ24 · Development\n\n100%\n\nAll 38 selected education + values + health + skills + responsibility.\n\n\nQ25 · Balance\n\n97.4%\n\n37/38 selected balanced technology + physical activity as the best improvement."
+  },
+  {
+    "objectID": "survey-results.html#interpretation",
+    "href": "survey-results.html#interpretation",
+    "title": "Survey Results",
+    "section": "Interpretation",
+    "text": "Interpretation\nThe strongest pattern is not simply “technology is bad”. The survey points toward a need for balance between technology, sleep, physical activity, learning, values, family interaction and life skills."
+  },
+  {
+    "objectID": "parent-awareness.html",
+    "href": "parent-awareness.html",
+    "title": "Parent Awareness",
+    "section": "",
+    "text": "Parents can help children develop healthy digital routines without treating technology as completely negative.\n\n\n\n\n\nSet clear routines and explain why limits are useful.\n\n\n\n\n\n\nMeals, conversations and family activities should include real interaction.\n\n\n\n\n\n\nFor young children, use talking, reading, play and interaction instead of relying on a device for every difficult moment.\n\n\n\n\n\n\nSupport outdoor play, sports, hobbies, music, dance and other skills."
+  },
+  {
+    "objectID": "parent-awareness.html#parent-awareness",
+    "href": "parent-awareness.html#parent-awareness",
+    "title": "Parent Awareness",
+    "section": "",
+    "text": "Parents can help children develop healthy digital routines without treating technology as completely negative.\n\n\n\n\n\nSet clear routines and explain why limits are useful.\n\n\n\n\n\n\nMeals, conversations and family activities should include real interaction.\n\n\n\n\n\n\nFor young children, use talking, reading, play and interaction instead of relying on a device for every difficult moment.\n\n\n\n\n\n\nSupport outdoor play, sports, hobbies, music, dance and other skills."
+  },
+  {
+    "objectID": "parent-awareness.html#parent-takeaway",
+    "href": "parent-awareness.html#parent-takeaway",
+    "title": "Parent Awareness",
+    "section": "Parent takeaway",
+    "text": "Parent takeaway\nModel the behaviour you want children to learn. A family routine that includes sleep, physical activity, conversation, study and responsible technology use is more useful than a simple “no phone” rule."
+  },
+  {
+    "objectID": "healthy-habits.html",
+    "href": "healthy-habits.html",
+    "title": "Healthy Habits",
+    "section": "",
+    "text": "The same core message can be taught at different levels: use technology responsibly, sleep well, move daily, study with focus and develop real-world skills.\n\n\n\n\n\nClasses 1–5: Play outside every day.\n\n\nClasses 6–8: Balance screen time with outdoor activity.\n\n\nClasses 9–12: Protect time for exercise, sports or walking.\n\n\n\n\n\n\nKeep screens away during bedtime and create a calm night routine.\n\n\n\n\n\n\nReduce unnecessary notifications and distractions while studying.\n\n\n\n\n\n\nEncourage music, dance, art, sports, reading, creativity and practical skills."
+  },
+  {
+    "objectID": "healthy-habits.html#healthy-habits-for-classes-112",
+    "href": "healthy-habits.html#healthy-habits-for-classes-112",
+    "title": "Healthy Habits",
+    "section": "",
+    "text": "The same core message can be taught at different levels: use technology responsibly, sleep well, move daily, study with focus and develop real-world skills.\n\n\n\n\n\nClasses 1–5: Play outside every day.\n\n\nClasses 6–8: Balance screen time with outdoor activity.\n\n\nClasses 9–12: Protect time for exercise, sports or walking.\n\n\n\n\n\n\nKeep screens away during bedtime and create a calm night routine.\n\n\n\n\n\n\nReduce unnecessary notifications and distractions while studying.\n\n\n\n\n\n\nEncourage music, dance, art, sports, reading, creativity and practical skills."
+  },
+  {
+    "objectID": "healthy-habits.html#simple-child-message",
+    "href": "healthy-habits.html#simple-child-message",
+    "title": "Healthy Habits",
+    "section": "Simple child message",
+    "text": "Simple child message\n\nUse technology → Play → Study → Talk → Sleep\n\nTechnology should support childhood, not replace sleep, movement, relationships and learning."
+  },
+  {
+    "objectID": "child-awareness.html",
+    "href": "child-awareness.html",
+    "title": "Child Awareness",
+    "section": "",
+    "text": "AskAsk a parent before using a device.\n\n\nBreakTake breaks from screens.\n\n\nPlayPlay outside and move your body.\n\n\nSleepPut the device away at bedtime.\n\n\n\n\n\n\nControl unnecessary screen time.\nAvoid phones during study.\nUse earphones responsibly.\nProtect sleep.\nExercise and develop a hobby.\n\n\n\n\n\nUse technology for learning and creativity.\nAvoid excessive social-media use.\nProtect sleep and concentration.\nBalance academics, technology, health and relationships.\nBuild real-world skills and responsible habits."
+  },
+  {
+    "objectID": "child-awareness.html#child-awareness-by-age-group",
+    "href": "child-awareness.html#child-awareness-by-age-group",
+    "title": "Child Awareness",
+    "section": "",
+    "text": "AskAsk a parent before using a device.\n\n\nBreakTake breaks from screens.\n\n\nPlayPlay outside and move your body.\n\n\nSleepPut the device away at bedtime.\n\n\n\n\n\n\nControl unnecessary screen time.\nAvoid phones during study.\nUse earphones responsibly.\nProtect sleep.\nExercise and develop a hobby.\n\n\n\n\n\nUse technology for learning and creativity.\nAvoid excessive social-media use.\nProtect sleep and concentration.\nBalance academics, technology, health and relationships.\nBuild real-world skills and responsible habits."
+  },
+  {
+    "objectID": "child-awareness.html#remember",
+    "href": "child-awareness.html#remember",
+    "title": "Child Awareness",
+    "section": "Remember",
+    "text": "Remember\n\nTechnology is a tool. You are in control of how you use it."
+  },
+  {
+    "objectID": "charts.html",
+    "href": "charts.html",
+    "title": "Charts & Reports",
+    "section": "",
+    "text": "Code\nsource(\"R/analysis.R\")"
+  },
+  {
+    "objectID": "charts.html#digital-habits",
+    "href": "charts.html#digital-habits",
+    "title": "Charts & Reports",
+    "section": "Digital habits",
+    "text": "Digital habits\n\nQ1 · Mobile usage\n\n\nCode\nplot_question(\"Q1\")\n\n\n\n\n\n\n\n\n\n\n\nQ3 · Social media\n\n\nCode\nplot_question(\"Q3\")\n\n\n\n\n\n\n\n\n\n\n\nQ7 · Earphone habits\n\n\nCode\nplot_question(\"Q7\")\n\n\n\n\n\n\n\n\n\n\n\nQ9 · Phone before sleep\n\n\nCode\nplot_question(\"Q9\")"
+  },
+  {
+    "objectID": "charts.html#health-well-being",
+    "href": "charts.html#health-well-being",
+    "title": "Charts & Reports",
+    "section": "Health & well-being",
+    "text": "Health & well-being\n\nQ10 · Sleep duration\n\n\nCode\nplot_question(\"Q10\")\n\n\n\n\n\n\n\n\n\n\n\nQ11 · Physical activity\n\n\nCode\nplot_question(\"Q11\")\n\n\n\n\n\n\n\n\n\n\n\nQ13 · Effect of excessive mobile use\n\n\nCode\nplot_question(\"Q13\")\n\n\n\n\n\n\n\n\n\nNote: Q13 contains one response recorded as “S” in the Excel file. The seven charts use the four defined questionnaire choices (A–D), so that invalid entry is not classified as a valid answer."
+  },
+  {
+    "objectID": "DEPLOY_NOW.html",
+    "href": "DEPLOY_NOW.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "DEPLOY_NOW.html#a.-update-quarto-on-windows",
+    "href": "DEPLOY_NOW.html#a.-update-quarto-on-windows",
+    "title": "",
+    "section": "A. Update Quarto on Windows",
+    "text": "A. Update Quarto on Windows\nInstall the current Quarto release from the official Quarto website: https://quarto.org/docs/get-started/\nThen restart RStudio.\nCheck:\nquarto --version\nquarto check"
+  },
+  {
+    "objectID": "DEPLOY_NOW.html#b.-install-the-r-packages-used-by-the-project",
+    "href": "DEPLOY_NOW.html#b.-install-the-r-packages-used-by-the-project",
+    "title": "",
+    "section": "B. Install the R packages used by the project",
+    "text": "B. Install the R packages used by the project\nIn the RStudio Console:\ninstall.packages(c(\"readxl\", \"dplyr\", \"ggplot2\", \"scales\", \"rsconnect\"))"
+  },
+  {
+    "objectID": "DEPLOY_NOW.html#c.-render-locally",
+    "href": "DEPLOY_NOW.html#c.-render-locally",
+    "title": "",
+    "section": "C. Render locally",
+    "text": "C. Render locally\nOpen the project folder in RStudio Terminal:\nquarto render\nYou must see:\nOutput created: _site/index.html"
+  },
+  {
+    "objectID": "DEPLOY_NOW.html#d.-create-the-posit-connect-cloud-manifest",
+    "href": "DEPLOY_NOW.html#d.-create-the-posit-connect-cloud-manifest",
+    "title": "",
+    "section": "D. Create the Posit Connect Cloud manifest",
+    "text": "D. Create the Posit Connect Cloud manifest\nIn the RStudio Console, while the working directory is the project root:\nrsconnect::writeManifest(contentCategory = \"site\")\nCheck that the file exists:\nls -la manifest.json"
+  },
+  {
+    "objectID": "DEPLOY_NOW.html#e.-github",
+    "href": "DEPLOY_NOW.html#e.-github",
+    "title": "",
+    "section": "E. GitHub",
+    "text": "E. GitHub\ngit add .\ngit commit -m \"Deployable Quarto version 1\"\ngit push origin main"
+  },
+  {
+    "objectID": "DEPLOY_NOW.html#f.-posit-connect-cloud",
+    "href": "DEPLOY_NOW.html#f.-posit-connect-cloud",
+    "title": "",
+    "section": "F. Posit Connect Cloud",
+    "text": "F. Posit Connect Cloud\nPublish the GitHub repository as a Quarto website. Keep _quarto.yml in the repository root and keep manifest.json in the same root."
+  },
+  {
+    "objectID": "DEPLOY_NOW.html#g.-netlify-easiest-backup",
+    "href": "DEPLOY_NOW.html#g.-netlify-easiest-backup",
+    "title": "",
+    "section": "G. Netlify — easiest backup",
+    "text": "G. Netlify — easiest backup\nAfter quarto render, the _site folder is a normal static website. You can deploy the _site folder to Netlify without running R on Netlify."
+  },
+  {
+    "objectID": "DEPLOY_NOW.html#important",
+    "href": "DEPLOY_NOW.html#important",
+    "title": "",
+    "section": "Important",
+    "text": "Important\nDo not upload _site as the source for Posit Connect Cloud if you want Posit to render the Quarto/R project. For Posit, use the source project plus manifest.json.\nDo not use a Shiny deployment method for this Quarto website. It is a Quarto website, not a Shiny app."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Digital Well-being of School Children",
+    "section": "",
+    "text": "Real survey → data analysis → visual reports → awareness → evidence-based recommendations\nThis website presents a practical, questionnaire-based study of digital habits and related areas such as sleep, physical activity, concentration, earphone use, family interaction, values and life skills."
+  },
+  {
+    "objectID": "index.html#what-this-project-does",
+    "href": "index.html#what-this-project-does",
+    "title": "Digital Well-being of School Children",
+    "section": "What this project does",
+    "text": "What this project does\n\n\n\n38\n\nStudents surveyedReal questionnaire responses\n\n\n\n25\n\nSurvey questionsMCQ questionnaire\n\n\n\n7\n\nKey visual reportsDigital habits & well-being\n\n\n\n1\n\nAwareness resourceFor children and parents"
+  },
+  {
+    "objectID": "index.html#project-message",
+    "href": "index.html#project-message",
+    "title": "Digital Well-being of School Children",
+    "section": "Project message",
+    "text": "Project message\n\nTechnology is useful when used responsibly. The goal is balance—not complete technology avoidance.\n\nUse the navigation above to explore the real survey results, charts, healthy habits, parent awareness, child awareness and recommendations.\n\nThis is a questionnaire-based project. The survey findings describe the responses collected and do not by themselves establish direct cause-and-effect."
+  },
+  {
+    "objectID": "recommendations.html",
+    "href": "recommendations.html",
+    "title": "Evidence-based Recommendations",
+    "section": "",
+    "text": "68.4% · Q126/38 reported 2+ hours of mobile use.\n\n\nRecommendation: Encourage balanced daily screen habits.\n\n\n47.4% · Q918/38 used a phone often/every night before sleep.\n\n\nRecommendation: Promote a screen-free bedtime routine.\n\n\n44.7% · Q1117/38 reported less than 30 minutes of outdoor activity.\n\n\nRecommendation: Encourage daily outdoor activity, sports or exercise.\n\n\n86.8% · Q1333/38 said excessive mobile use affects them sometimes/often/very often.\n\n\nRecommendation: Conduct digital-well-being awareness sessions.\n\n\n97.4% · Q2537/38 selected balanced technology + physical activity as the best improvement.\n\n\nRecommendation: Promote balance rather than complete technology avoidance."
+  },
+  {
+    "objectID": "recommendations.html#from-finding-recommendation",
+    "href": "recommendations.html#from-finding-recommendation",
+    "title": "Evidence-based Recommendations",
+    "section": "",
+    "text": "68.4% · Q126/38 reported 2+ hours of mobile use.\n\n\nRecommendation: Encourage balanced daily screen habits.\n\n\n47.4% · Q918/38 used a phone often/every night before sleep.\n\n\nRecommendation: Promote a screen-free bedtime routine.\n\n\n44.7% · Q1117/38 reported less than 30 minutes of outdoor activity.\n\n\nRecommendation: Encourage daily outdoor activity, sports or exercise.\n\n\n86.8% · Q1333/38 said excessive mobile use affects them sometimes/often/very often.\n\n\nRecommendation: Conduct digital-well-being awareness sessions.\n\n\n97.4% · Q2537/38 selected balanced technology + physical activity as the best improvement.\n\n\nRecommendation: Promote balance rather than complete technology avoidance."
+  },
+  {
+    "objectID": "recommendations.html#overall-recommendation",
+    "href": "recommendations.html#overall-recommendation",
+    "title": "Evidence-based Recommendations",
+    "section": "🌟 Overall recommendation",
+    "text": "🌟 Overall recommendation\nSchools + parents + children can work together to build a routine that balances:\nTechnology + Sleep + Physical Activity + Learning + Family + Values + Life Skills\n\nThe recommendations above are linked to the collected survey findings. They are awareness recommendations, not medical diagnoses or proof of cause-and-effect."
+  }
+]
