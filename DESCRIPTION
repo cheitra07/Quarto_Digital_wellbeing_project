@@ -1,0 +1,9 @@
+Package: digitalwellbeingquarto
+Type: Website
+Title: Digital Well-being of School Children
+Version: 1.0.1
+Imports:
+    dplyr,
+    ggplot2,
+    readxl,
+    scales

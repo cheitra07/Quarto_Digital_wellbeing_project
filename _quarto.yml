@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Digital Well-being of School Children"
+  navbar:
+    background: "#4B236B"
+    foreground: "#FFFFFF"
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: survey-results.qmd
+        text: "Survey Results"
+      - href: charts.qmd
+        text: "Charts & Reports"
+      - href: healthy-habits.qmd
+        text: "Healthy Habits"
+      - href: parent-awareness.qmd
+        text: "Parent Awareness"
+      - href: child-awareness.qmd
+        text: "Child Awareness"
+      - href: recommendations.qmd
+        text: "Recommendations"
+
+format:
+  html:
+    theme: cosmo
+    embed-resources: false
+    css: styles.css
+    toc: false
+    page-layout: full
+    code-fold: true
+    code-tools: true
+    smooth-scroll: true
+
+execute:
+  warning: false
+  message: false

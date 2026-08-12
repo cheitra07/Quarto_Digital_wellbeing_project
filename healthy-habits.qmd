@@ -1,0 +1,41 @@
+---
+title: "Healthy Habits"
+---
+
+## Healthy habits for Classes 1–12
+
+The same core message can be taught at different levels: **use technology responsibly, sleep well, move daily, study with focus and develop real-world skills.**
+
+<div class="card-grid">
+<div class="card green">
+<img class="habit-img" src="images/outdoor_play.svg">
+<h3>🏃 Move every day</h3>
+<p><b>Classes 1–5:</b> Play outside every day.</p>
+<p><b>Classes 6–8:</b> Balance screen time with outdoor activity.</p>
+<p><b>Classes 9–12:</b> Protect time for exercise, sports or walking.</p>
+</div>
+
+<div class="card violet">
+<img class="habit-img" src="images/healthy_sleep.svg">
+<h3>😴 Protect sleep</h3>
+<p>Keep screens away during bedtime and create a calm night routine.</p>
+</div>
+
+<div class="card blue">
+<img class="habit-img" src="images/focused_study.svg">
+<h3>📚 Study with focus</h3>
+<p>Reduce unnecessary notifications and distractions while studying.</p>
+</div>
+
+<div class="card orange">
+<img class="habit-img" src="images/hobbies.svg">
+<h3>🎵 Build life skills</h3>
+<p>Encourage music, dance, art, sports, reading, creativity and practical skills.</p>
+</div>
+</div>
+
+## Simple child message
+
+> **Use technology → Play → Study → Talk → Sleep**
+
+Technology should support childhood, not replace sleep, movement, relationships and learning.

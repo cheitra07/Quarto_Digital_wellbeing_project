@@ -1,0 +1,37 @@
+---
+title: "Parent Awareness"
+---
+
+## 👨‍👩‍👧 Parent awareness
+
+Parents can help children develop healthy digital routines without treating technology as completely negative.
+
+<div class="card-grid">
+<div class="card blue">
+<img class="habit-img" src="images/parent_guidance.svg">
+<h3>Guide, don't just restrict</h3>
+<p>Set clear routines and explain why limits are useful.</p>
+</div>
+
+<div class="card orange">
+<img class="habit-img" src="images/phone_free_time.svg">
+<h3>Create phone-free family time</h3>
+<p>Meals, conversations and family activities should include real interaction.</p>
+</div>
+
+<div class="card violet">
+<img class="habit-img" src="images/family_time.svg">
+<h3>Replace screen convenience</h3>
+<p>For young children, use talking, reading, play and interaction instead of relying on a device for every difficult moment.</p>
+</div>
+
+<div class="card green">
+<img class="habit-img" src="images/outdoor_play.svg">
+<h3>Encourage active childhood</h3>
+<p>Support outdoor play, sports, hobbies, music, dance and other skills.</p>
+</div>
+</div>
+
+## Parent takeaway
+
+**Model the behaviour you want children to learn.** A family routine that includes sleep, physical activity, conversation, study and responsible technology use is more useful than a simple “no phone” rule.

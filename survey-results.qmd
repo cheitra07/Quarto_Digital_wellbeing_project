@@ -1,0 +1,31 @@
+---
+title: "Survey Results"
+---
+
+```{r}
+source("R/analysis.R")
+```
+
+## Dataset
+
+The project uses the collected **25-question printed questionnaire** with **38 student responses**.
+
+The questionnaire covers mobile use, social media, earphones, sleep, physical activity, study/concentration, family interaction, values and life skills.
+
+## Strongest findings
+
+<div class="card-grid">
+<div class="card blue"><b>Q1 · Mobile use</b><div class="stat">68.4%</div>26/38 reported 2+ hours of mobile use.</div>
+<div class="card violet"><b>Q3 · Social media</b><div class="stat">76.3%</div>29/38 reported daily social-media use.</div>
+<div class="card orange"><b>Q7 · Earphones</b><div class="stat">71.1%</div>27/38 used earphones occasionally/daily.</div>
+<div class="card blue"><b>Q9 · Before sleep</b><div class="stat">47.4%</div>18/38 used a phone often/every night before sleep.</div>
+<div class="card violet"><b>Q10 · Sleep</b><div class="stat">23.7%</div>9/38 reported less than 6 hours of sleep.</div>
+<div class="card green"><b>Q11 · Activity</b><div class="stat">44.7%</div>17/38 reported less than 30 minutes of outdoor activity.</div>
+<div class="card orange"><b>Q13 · Excessive use</b><div class="stat">86.8%</div>33/38 said excessive mobile use affects them sometimes/often/very often.</div>
+<div class="card green"><b>Q24 · Development</b><div class="stat">100%</div>All 38 selected education + values + health + skills + responsibility.</div>
+<div class="card violet"><b>Q25 · Balance</b><div class="stat">97.4%</div>37/38 selected balanced technology + physical activity as the best improvement.</div>
+</div>
+
+## Interpretation
+
+The strongest pattern is not simply “technology is bad”. The survey points toward a need for **balance between technology, sleep, physical activity, learning, values, family interaction and life skills**.

@@ -1,0 +1,36 @@
+---
+title: "Child Awareness"
+---
+
+## 👧 Child awareness by age group
+
+### 🟢 Classes 1–5 — Healthy Screen Habits
+
+<div class="card-grid">
+<div class="card green"><b>Ask</b><br>Ask a parent before using a device.</div>
+<div class="card blue"><b>Break</b><br>Take breaks from screens.</div>
+<div class="card orange"><b>Play</b><br>Play outside and move your body.</div>
+<div class="card violet"><b>Sleep</b><br>Put the device away at bedtime.</div>
+</div>
+
+### 🔵 Classes 6–8 — Balance Technology & Life
+
+- Control unnecessary screen time.
+- Avoid phones during study.
+- Use earphones responsibly.
+- Protect sleep.
+- Exercise and develop a hobby.
+
+### 🟣 Classes 9–12 — Digital Responsibility
+
+- Use technology for learning and creativity.
+- Avoid excessive social-media use.
+- Protect sleep and concentration.
+- Balance academics, technology, health and relationships.
+- Build real-world skills and responsible habits.
+
+<img class="habit-img" src="images/child_balance.svg">
+
+## Remember
+
+> **Technology is a tool. You are in control of how you use it.**

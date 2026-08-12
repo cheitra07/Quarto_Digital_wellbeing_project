@@ -1,0 +1,19 @@
+
+body { font-family: Arial, sans-serif; color:#222; }
+.navbar { font-family: Arial, sans-serif; }
+h1,h2,h3 { color:#4B236B; font-family:Arial,sans-serif; font-weight:700; }
+.hero { background:linear-gradient(135deg,#4B236B,#6F3A8C); color:white; padding:34px; border-radius:18px; margin-bottom:24px; }
+.hero h1 { color:white; margin-top:0; }
+.card-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:18px; margin:18px 0; }
+.card { padding:20px; border-radius:16px; border:1px solid #ddd; background:#fff; box-shadow:0 3px 12px rgba(0,0,0,.07); }
+.card.violet { border-top:6px solid #4B236B; }
+.card.orange { border-top:6px solid #C65A16; }
+.card.blue { border-top:6px solid #1F4E79; }
+.card.green { border-top:6px solid #3F8B4A; }
+.stat { font-size:30px; font-weight:700; color:#4B236B; }
+.finding { background:#F4EEF8; border-left:6px solid #4B236B; padding:14px 18px; border-radius:8px; margin:12px 0; }
+.recommendation { background:#FFF1E7; border-left:6px solid #C65A16; padding:14px 18px; border-radius:8px; margin:12px 0; }
+.habit-img { width:100%; max-height:220px; object-fit:cover; border-radius:14px; background:#F4EEF8; }
+.small { color:#666; font-size:.92em; }
+table { font-size:.92em; }
+.footer-note { background:#4B236B; color:white; padding:16px; border-radius:12px; margin-top:28px; }

@@ -1,0 +1,48 @@
+---
+title: "Charts & Reports"
+---
+
+```{r}
+source("R/analysis.R")
+```
+
+## Digital habits
+
+### Q1 · Mobile usage
+```{r}
+plot_question("Q1")
+```
+
+### Q3 · Social media
+```{r}
+plot_question("Q3")
+```
+
+### Q7 · Earphone habits
+```{r}
+plot_question("Q7")
+```
+
+### Q9 · Phone before sleep
+```{r}
+plot_question("Q9")
+```
+
+## Health & well-being
+
+### Q10 · Sleep duration
+```{r}
+plot_question("Q10")
+```
+
+### Q11 · Physical activity
+```{r}
+plot_question("Q11")
+```
+
+### Q13 · Effect of excessive mobile use
+```{r}
+plot_question("Q13")
+```
+
+**Note:** Q13 contains one response recorded as “S” in the Excel file. The seven charts use the four defined questionnaire choices (A–D), so that invalid entry is not classified as a valid answer.

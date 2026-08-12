@@ -1,0 +1,32 @@
+---
+title: "Digital Well-being of School Children"
+---
+
+<div class="hero">
+
+# Impact of Mobile Phone and Social Media Use on the Health and Well-being of School Children
+
+**Real survey → data analysis → visual reports → awareness → evidence-based recommendations**
+
+This website presents a practical, questionnaire-based study of digital habits and related areas such as sleep, physical activity, concentration, earphone use, family interaction, values and life skills.
+
+</div>
+
+## What this project does
+
+<div class="card-grid">
+<div class="card violet"><div class="stat">38</div><b>Students surveyed</b><br><span class="small">Real questionnaire responses</span></div>
+<div class="card blue"><div class="stat">25</div><b>Survey questions</b><br><span class="small">MCQ questionnaire</span></div>
+<div class="card orange"><div class="stat">7</div><b>Key visual reports</b><br><span class="small">Digital habits & well-being</span></div>
+<div class="card green"><div class="stat">1</div><b>Awareness resource</b><br><span class="small">For children and parents</span></div>
+</div>
+
+## Project message
+
+> **Technology is useful when used responsibly. The goal is balance—not complete technology avoidance.**
+
+Use the navigation above to explore the **real survey results, charts, healthy habits, parent awareness, child awareness and recommendations**.
+
+<div class="footer-note">
+This is a questionnaire-based project. The survey findings describe the responses collected and do not by themselves establish direct cause-and-effect.
+</div>

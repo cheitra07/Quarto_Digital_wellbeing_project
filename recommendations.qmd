@@ -1,0 +1,30 @@
+---
+title: "Evidence-based Recommendations"
+---
+
+## 🎯 From finding → recommendation
+
+<div class="finding"><b>68.4% · Q1</b><br>26/38 reported 2+ hours of mobile use.</div>
+<div class="recommendation"><b>Recommendation:</b> Encourage balanced daily screen habits.</div>
+
+<div class="finding"><b>47.4% · Q9</b><br>18/38 used a phone often/every night before sleep.</div>
+<div class="recommendation"><b>Recommendation:</b> Promote a screen-free bedtime routine.</div>
+
+<div class="finding"><b>44.7% · Q11</b><br>17/38 reported less than 30 minutes of outdoor activity.</div>
+<div class="recommendation"><b>Recommendation:</b> Encourage daily outdoor activity, sports or exercise.</div>
+
+<div class="finding"><b>86.8% · Q13</b><br>33/38 said excessive mobile use affects them sometimes/often/very often.</div>
+<div class="recommendation"><b>Recommendation:</b> Conduct digital-well-being awareness sessions.</div>
+
+<div class="finding"><b>97.4% · Q25</b><br>37/38 selected balanced technology + physical activity as the best improvement.</div>
+<div class="recommendation"><b>Recommendation:</b> Promote balance rather than complete technology avoidance.</div>
+
+## 🌟 Overall recommendation
+
+**Schools + parents + children** can work together to build a routine that balances:
+
+**Technology + Sleep + Physical Activity + Learning + Family + Values + Life Skills**
+
+<div class="footer-note">
+The recommendations above are linked to the collected survey findings. They are awareness recommendations, not medical diagnoses or proof of cause-and-effect.
+</div>
